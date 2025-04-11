@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Idea Platofrm
+🔭 I’m currently studying in ITMO
 
 
 # 💻 Tech Stack:
